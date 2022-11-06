@@ -12,6 +12,7 @@ import { Loginform } from './Loginform';
 import { Italictag } from './Italictag';
 import { Tabletag } from './Tabletag';
 import { Button } from './Button';
+import { Signupform } from './Signupform';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -25,6 +26,7 @@ root.render(
   <Italictag></Italictag>
   <Tabletag></Tabletag>
   <Button></Button>
+  <Signupform></Signupform>
 
   </>
 );
