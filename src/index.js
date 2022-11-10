@@ -8,7 +8,7 @@ import { Boldtag } from './Boldtag';
 import { Inputtag } from './Inputtag';
 import { Imgtag } from './Imgtag';
 import { Ptag } from './Ptag';
-import { Loginform } from './Loginform';
+//import { Loginform } from './Loginform';
 import { Italictag } from './Italictag';
 import { Tabletag } from './Tabletag';
 import { Button } from './Button';
@@ -22,7 +22,7 @@ root.render(
   <Inputtag></Inputtag>
   <Imgtag></Imgtag>
   <Ptag></Ptag>
-  <Loginform></Loginform>
+
   <Italictag></Italictag>
   <Tabletag></Tabletag>
   <Button></Button>
