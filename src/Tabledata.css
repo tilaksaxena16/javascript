@@ -1,0 +1,9 @@
+*{
+    padding:0;
+    margin:0;
+}
+.container{
+    height: 800px;
+    width: 1000px;
+    background-color: rgb(125, 211, 211);
+}
