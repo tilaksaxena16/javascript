@@ -4,8 +4,29 @@
 }
 
 .container{
-    width: 600px;
-    height:600px;
-    background-color: rgb(126, 39, 39);
+    width: 800px;
+    height:700px;
+    background-color: rgb(170, 163, 163);
+    
 }
-
+.div-dis{
+    display: flex;
+    
+}
+.input-size{
+    height: 30px;
+    width:196px;
+}
+.margin-top{
+    padding-top: 30px;
+}
+.input{
+    height:30px;
+    width:595px;
+}
+.padding{
+    padding-bottom: 10px;
+}
+.padding-left{
+    padding-left: 10px;
+}
