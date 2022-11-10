@@ -12,7 +12,7 @@ import { Ptag } from './Ptag';
 import { Italictag } from './Italictag';
 import { Tabletag } from './Tabletag';
 import { Button } from './Button';
-import { Signupform } from './Signupform';
+//import { Signupform } from './Signupform';
 import { Tabledata } from './Tabledata';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -27,7 +27,7 @@ root.render(
   <Italictag></Italictag>
   <Tabletag></Tabletag>
   <Button></Button>
-  <Signupform></Signupform>
+
   <Tabledata></Tabledata>
 
   </>
